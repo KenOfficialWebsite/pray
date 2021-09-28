@@ -1,4 +1,4 @@
-# pray
+# Pray
 Tell us what we could pray for you!
 
 # Limit
@@ -12,3 +12,7 @@ The limits are currently:
 - 5 MB per value
 
 There are rate limits that apply to all operations. You will receive an HTTP 429 if you exceed them. We recommend you to content Casper with casper@casperstudio.cf as soon as possible. Thanks.
+
+# Self-hosting
+
+Please don't! At least now. The project is stll in development and it is very buggy. Which is why I haven't released yet. I will remove this until I fully done the development of this website. Thanks.
