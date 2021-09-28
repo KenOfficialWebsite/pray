@@ -20,28 +20,52 @@ Please don't! At least now. The project is stll in development and it is very bu
 ## About Project
 
 Project Name: Ken區官網
+
 Project Lead: Hennry, Casper Ong, Kennith Ko
+
 Project Developer: Hennry, Casper Ong, IsaacchaN
+
 Project Designer: Kim
+
 Opinion Provider: Wing Yan, Maria
 
+
 Technique:
+
 HTML
+
 CSS
+
 JS 
+
 Node.JS
+
 MongoDB
+
 Google Firebase
+
 JSON
+
 jsonstorage
+
 Replit
+
 Freenom (coming soon)
 
+
 Software:
+
 Arch Linux
+
 Windows 10
+
 Visual Studio Code
+
 Visual Studio
+
 Brackets
+
 Replit
+
 IntelliJ Idea
+
