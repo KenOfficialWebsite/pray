@@ -16,3 +16,32 @@ There are rate limits that apply to all operations. You will receive an HTTP 429
 # Self-hosting
 
 Please don't! At least now. The project is stll in development and it is very buggy. Which is why I haven't released yet. I will remove this until I fully done the development of this website. Thanks.
+
+## About Project
+
+Project Name: Ken區官網
+Project Lead: Hennry, Casper Ong, Kennith Ko
+Project Developer: Hennry, Casper Ong, IsaacchaN
+Project Designer: Kim
+Opinion Provider: Wing Yan, Maria
+
+Technique:
+HTML
+CSS
+JS 
+Node.JS
+MongoDB
+Google Firebase
+JSON
+jsonstorage
+Replit
+Freenom (coming soon)
+
+Software:
+Arch Linux
+Windows 10
+Visual Studio Code
+Visual Studio
+Brackets
+Replit
+IntelliJ Idea
