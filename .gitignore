@@ -1,1 +1,16 @@
+#Admininstrator Page
+/src/admin.css
+/src/admin.js
+/views/admin.ejs
 
+#Maintenance Page
+/views/Maintenance.ejs
+
+#Developing Page
+/dev
+
+#Releasing Page
+/pre-release
+/stable-release
+/dev-release
+/insider-release
