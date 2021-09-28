@@ -5,7 +5,8 @@ Tell us what we could pray for you!
 Pray is a web application that lets you write what we can pray for you.
 
 ## Removing your pray ticket.
-You might sent a wrong pray ticket or you wanted to edit or else 
+You might sent a wrong pray ticket or you want to edit or something else makes you want to delete your ticket. 
+But sadly, you must contant Casper by casper@casperstudio.cf to remove your ticket.
 
 ## Limit
 This project is save on a database. But there is a limit of it.
