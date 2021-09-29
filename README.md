@@ -27,16 +27,16 @@ Please don't! At least now. The project is stll in development and it is very bu
 ## About Project
 
 ### Project Name
-Ken區官網
+**Ken區官網**
 
 ### Project Lead
-Hennry, Casper Ong, Kennith Ko
+*Hennry, Casper Ong, Kennith Ko*
 
 ### Project Developer
-Hennry, Casper Ong, IsaacchaN
+*Hennry, Casper Ong, IsaacchaN*
 
 ### Project Designer
-Kim
+*Kim*
 
 ### Opinion Provider
-Wing Yan, Maria
+***Wing Yan, Maria***
